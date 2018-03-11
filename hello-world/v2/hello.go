@@ -2,6 +2,12 @@ package main
 
 import "fmt"
 
+// Français For French speakers
+const Français = "Français"
+
+// Español For Spanish speakers
+const Español = "Español"
+
 const helloPrefix = "Hello, "
 const españolHelloPrefix = "Hola, "
 const françaisHelloPrefix = "Bonjour, "
